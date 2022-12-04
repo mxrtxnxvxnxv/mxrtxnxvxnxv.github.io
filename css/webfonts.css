@@ -41,43 +41,43 @@
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  src: url('./webfonts/Montserrat-Bold.ttf') format('truetype');
-  font-weight: bold;
-  font-style: normal;
+    font-family: 'Poppins';
+    src: url('./webfonts/Poppins-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  src: url('./webfonts/Montserrat-Medium.ttf') format('truetype');
-  font-weight: medium;
-  font-style: normal;
+    font-family: 'Poppins';
+    src: url('./webfonts/Poppins-Medium.ttf') format('truetype');
+    font-weight: medium;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  src: url('./webfonts/Montserrat-Regular.ttf') format('truetype');
+  font-family: 'Poppins';
+  src: url('./webfonts/Poppins-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  src: url('./webfonts/Montserrat-BoldItalic.ttf') format('truetype');
+  font-family: 'Poppins';
+  src: url('./webfonts/Poppins-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  src: url('./webfonts/Montserrat-MediumItalic.ttf') format('truetype');
+  font-family: 'Poppins';
+  src: url('./webfonts/Poppins-MediumItalic.ttf') format('truetype');
   font-weight: medium;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  src: url('./webfonts/Montserrat-Italic.ttf') format('truetype');
+  font-family: 'Poppins';
+  src: url('./webfonts/Poppins-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }

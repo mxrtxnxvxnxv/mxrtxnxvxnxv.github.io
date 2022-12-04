@@ -26,6 +26,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-instagram:before {
+    content: "\e900";
+}
 .icon-facebook:before {
   content: '\f09a';
 }
@@ -69,7 +72,7 @@
   content: '\e905';
 }
 .icon-keyboard_arrow_up:before {
-  content: '\e90d';
+  content: '\e90e';
 }
 .icon-remove_red_eye:before {
   content: '\e90c';
@@ -99,11 +102,11 @@
   content: '\eab0';
 }
 body {
-  font-family: 'Montserrat', 'Noto Sans JP', sans-serif;
+  font-family: 'Poppins', 'Noto Sans JP', sans-serif;
   font-weight: 300;
 }
 .content {
-  font-family: 'Open Sans', 'Noto Sans JP', sans-serif;
+  font-family: 'Poppins', 'Noto Sans JP', sans-serif;
 }
 html {
   scroll-behavior: smooth;
